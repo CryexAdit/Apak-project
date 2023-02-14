@@ -204,12 +204,12 @@
 
 .about_mobile img {
 	width: 80%;
+	height: 80%;
 }
 
 
-
 .about_part_text {
-	padding-top: 70px;
+	padding-top: 1px;
 }
 
 .about_part_text h3 {
@@ -455,6 +455,47 @@
 }
 
 
+
+.team_img {
+	padding-top: 62px;
+}
+.team_img img {
+    width: 80%;
+}
+
+.team_img:hover .team_icon_one {
+	top: 50px !important;
+	left: 160px !important;
+}
+
+
+.team_img:hover .team_icon_two {
+	top: 83px !important;
+	left: 226px !important;
+}
+
+
+.team_img:hover .team_icon_three {
+	top: 135px !important;
+	left: 270px !important;
+}
+.team_img:hover .team_icon_four {
+	top: 195px !important;
+	left: 286px !important;
+}
+
+
+.team_img:hover .team_icon_five {
+	top: 250px !important;
+	left: 280px !important;
+}
+
+
+
+.team_icon_four {
+	padding: 12px 11px;
+
+}
 /* team part end */
 
 
